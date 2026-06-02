@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+		<html lang="ru-RU">
+		<head><title>Скачать Vulkan_Save_Battery_OPTIMIZED.zip</title><link rel="stylesheet" href="https://4pda.to/s/qirtnJyisMWDgz2E9FPOX5Z.css?_=1640078763" media="all,handheld"/><meta http-equiv="Content-Type" content="text/html; charset=windows-1251" /><meta name="description" content="4PDA - Все про КПК" /><style type="text/css">#jRWL4DlTNGs966,#ltwDb9e4,#oCGiF5dDdinR{background-image:url(https://4pda.to/s/qirtlIqduInhZZiEfMRVfIM59s2ZQNoPROR7MZ0rPhuO5az0D7Xnn2vrQ.jpg)}</style></head>
+		<body><div id="lk8mz0o7a"><div id="lUf7oITz0" href="#"></div></div><div id="q4MiKxKQXz2"><div id="lcvTFXjr9x" href="#"></div><div id="kbz2INTBA9x" href="#"></div><div id="jYpCaZ8iMB" href="#"></div><div id="jRWL4DlTNGs966" href="/2025/12/28/1133771/"><div id="ltwDb9e4"></div><div id="oCGiF5dDdinR"></div></div></div><div id="c8yyIp0z1oq" href="/2025/12/28/1133771/">
+				<div id="megxGn5tbG"><img src="https://4pda.to/s/qirtmegxGvIHjdOMqhPAhsxWfRWx.png" class="megxGn5papCaJUh"><!-- <a href="/">Помощь</a> --></div>
+					<div class="dw-fname">Vulkan_Save_Battery_OPTIMIZED.zip</div>
+					<div class="dw-fsize">Размер: 2.95 КБ.</div>
+<script type="text/javascript"><!--
+function zat_tick(rem)
+{
+	e=document.getElementById("jRmo2w0spR8Z");
+	if(e.style.display!="none")
+	{
+		if(rem)
+		{
+			e.innerHTML="Файл начнет скачиваться автоматически через "+rem+" "+((1==rem)?"секунду":((5>rem)?"секунды":"секунд"))+".";
+			setTimeout("zat_tick("+(rem-1)+")",1000);
+		}
+		else zat_click ( );
+	}
+}
+function zat_click(t)
+{
+	if ( t == undefined || t.id == "q4MiKppREOv" )
+	{
+		document.getElementById("jRmo2w0spR8Z").style.display="none";
+		var href = document.getElementById("q4MiKppREOv").href;
+		if(window.parent&&window.parent)window.parent.location.href=href;
+		else location.href=href;
+		return false;
+	}
+	else if ( t.id == "jRWL4DlTNGs966")
+	{
+		var href = t.getAttribute("href");
+		if (href)
+			window.open(href);
+		return false;
+	}
+}
+window["qmz18kANovgJP"]=zat_click;
+function zat_captcha(act_t)
+{
+	aid=0;
+	loc=document.location.href;
+	if(0<(off=loc.indexOf("/dl/post/")))aid=parseInt(loc.substring(off+9));
+	else if(0<(off=loc.indexOf("&id=")))aid=parseInt(loc.substring(off+4));
+	document.location.href="https://4pda.to/forum/index.php?act=attach&id="+aid+"&act_t="+act_t;
+}
+function zat_close()
+{
+	if ( window.parent && window.parent.document && ( lc = window.parent.document.getElementById ( "lbClose" ) ) )
+	{
+		if ( typeof lc.onclick == "function" ) lc.onclick.apply ( lc );
+		else if ( lc.fireEvent ) lc.fireEvent ( "onclick" );
+		else lc.click ( );
+	}
+	else window.close ( );
+	return false;
+}
+
+var dlr = new XMLHttpRequest();
+dlr.timeout = 5000;
+dlr.open("GET", "https://cs13c5d.4pda.ws/test64k.bin", true);
+//dlr.open("GET", "https://192.168.23.101/test64k.bin", true);
+dlr.send();
+dlr.onload = function() {rep(dlr["status"]);};
+dlr.ontimeout = function() {rep(1000 + dlr["status"]);};
+function rep(stat) {
+    var rr = new XMLHttpRequest();
+    rr.open("GET", "https://4pda.to/forum/index.php?act=attach&code=report&host=cs13c5d.4pda.ws&status="+stat, true);
+    rr.send();
+}
+
+//--></script><div class="dw-fdwlink">
+				<a id="q4MiKppREOv" href="https://4pda.to/forum/index.php?act=attach&id=34087757&dlsess=5d41ca5a566f375dd409b58efe345923" target="_blank">Скачать Vulkan_Save_Battery_OPTIMIZED.zip</a><br />
+				<div id="jRmo2w0spR8Z"></div>
+				<span class="dw-descr">Если файл не начал скачиваться или вы не хотите ждать, нажмите на ссылку.</span>
+			</div>
+			<img src="https://4pda.to/s/qirtjkEk3QpfrC3XXohxSLKc.gif" width="1" height="1" />
+			<script type="text/javascript">zat_tick(10);</script><script type="text/javascript"><!--
+(function(){
+	function addEv(e,m,f){
+		if(e.addEventListener)
+			e.addEventListener(m,f,false);
+		else if(e.attachEvent)
+			e.attachEvent("on"+m,f);
+		else
+			e["on"+m]=f;
+	}
+	function wrFn(el){
+		var e=el,f=function(){
+			//debugger;
+			return zat_click(e);
+		};
+		return function(ev){
+			ev||window.event;
+			if(false === f.call(e)){
+				ev.preventDefault&&ev.preventDefault();
+				ev.returnValue=false;
+				return false;
+			}
+		}
+	}
+	var mo=(window.MutationObserver || window.WebkitMutationObserver || window.MozMutationObserver || false);
+	if ( mo )
+	{
+		if ( mo && mo.prototype && mo.prototype.toString().indexOf("object MutationObserver") == -1 )
+		{
+			var ifr = document.createElement("iframe");
+			ifr.setAttribute("src",(ifr.src="about:blank"));
+			ifr.setAttribute("style","display:none!important");
+			document.body.appendChild(ifr);
+			var wnd = ifr.contentWindow;
+			mo = false;
+			wnd && (mo = wnd.MutationObserver || wnd.WebkitMutationObserver || wnd.MozMutationObserver || false);
+		}
+		if ( mo )
+		{
+			mo = new mo(function(ms){
+				var i, m,dbi="display:block!important";
+				for (i = 0; i < ms.length; i++) {
+					m = ms[i];
+					if (("attributes" == m.type) && ("style" == m.attributeName)) {
+						m.target.getAttribute("style") != dbi && m.target.setAttribute("style",dbi);
+					}
+				}
+			})
+		}
+	}
+	var arr=["jRWL4DlTNGs966","q4MiKppREOv","lcvTFXjr9x","kbz2INTBA9x","jYpCaZ8iMB","iXr3yVkJMB","hkjz2QWkp6Z"],i=0,e;
+	for(;i<arr.length;i++){
+		if(e=document.getElementById(arr[i])){
+			addEv(e,"click",new wrFn(e));
+			mo && mo.observe(e,{attributes:!0,attributesFilter:["style"]});
+			e.removeAttribute("style");
+		}
+	}
+})();
+
+//--></script><div id="sWTSlmcXYS"><a href="https://4pda.to/" title="4pda - вся информация о мобильных устройствах" target="_blank">4pda</a>&nbsp;&#9642;&nbsp;<a href="https://4pda.to/devdb/" title="DevDB - каталог мобильных устройств" target="_blank">DevDB</a>&nbsp;&#9642;&nbsp;<a href="http://devfaq.ru/" title="DevFAQ - база знаний по мобильным устройствам" target="_blank">DevFAQ</a></div></div></body></html>
