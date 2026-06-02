@@ -1,2 +1,3 @@
 # KonaBess-Configs
-Configs for KonaBess on all snapdragon 8xx
+Configs for KonaBess on all snapdragon 8xx 
+Сreated by:@sheridanhome (tg)
