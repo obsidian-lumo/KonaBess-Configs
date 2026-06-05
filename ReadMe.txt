@@ -19,6 +19,7 @@ PesterevYasha
 advanced215
 SirKosichka
 Rauh-Welt
+SD870
 - XDA:
 KouaV1
 panjaksli
